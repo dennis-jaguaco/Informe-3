@@ -1,18 +1,18 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
-## Informe 2
+## Informe 3
 #### Nombre: Dennis Jaguaco
 #### NRC: 10067
 #### Materia: Fundamentos de Circuitos Eléctricos
 
 ### 1. OBJETIVOS
    * Objetivos generales:
-     * Mostrar Los conocimientos sobre la ley de Ohm.
+     * Identificar los circuitos en serie y paralelo.
      * Desarrollar los problemas de manera correcta.
    * Objetvos específicos:
-     * Analizar los ejercicios del capítulo 3 y 4.
-     * Identificar el método que se va aplicar en cada problema.
-     * Demostrar el procedimiento empleado en cada problema. 
+     * Desarrollar los ejercicios del capítulo 5 y 6.
+     * Examinar cada problema de la tarea.
+     * Justificar como se realizo cada ejercicio. 
 
 ### 2. MARCO TEÓRICO
 
@@ -47,64 +47,49 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#### 3-1
+#### 5-1
 
-2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos:
+1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
 
-   Solución: Para este caso como se conoce los valores de V y R, se usa la fórmula de la ley de Ohm, que es la siguiente:
-   
-   * I= V/R
-   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la corriente I.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio1.png)
 
-4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
-
- Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
-   
-   * R= V/I
-   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
-
-6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
-
-* En general tendran la misma resistencia, entonces hallamos dicha resistencia:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6.png)
-
-* Esa resistencia de 200 Ohm se usara en el circuito, solo va a variar voltajes y corrientes.
-
-    a. V = 1.5 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6a.png)
-    
-    b. V = 2 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6b.png)
-    
-    c. V = 3 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6c.png)
-    
-    d. V = 4 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6d.png)
-    
-    e. V = 10 V
-    
-    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6e.png)
-
-8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
- 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio8.png)
-
-10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10.png)
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10abc.png)
-
-Solución: El circuito c tiene más corriente porque tiene 0.021 A, el que tiene menos corriente es el circuito a con 0.015 A.
+   Solución: Los resistores se conectan en serie con una sola trayectoria y con distintos terminales.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio1abc.png)
 
 
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio3.png)
+
+Solución: Se aplica lo de que solo se tiene una trayectoria entre el punto 1 a 8 y se sacaron las resistencias que se encuentran ahí, sin embargo es difícil acertar que color es cada una dada que solo están a escalas de grises todos.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio3-1.png)
+
+5.En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio5.png)
+
+Solución: Se debe seguir la trayectoria en cada una de las puntas tomando en cuenta las dos caras del circuito.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio5-1.png)
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio5-2.png)
+
+#### 5-2
+7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio7.png)
+
+Solución: Al ser un circuito cerrado tiene como característica que su corriente va a ser constante en todo el circuito, por tanto la corriente en cada miliamperímetro es de 5 mA.
+
+9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
+
+
+Solución: El circuito esta con tres fuentes de voltaje en serie de 1.5 V, además un interruptor que conecta con las tres lámparas en serie y finalmete se cierra el circuito en donde empezó.  
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio9.jpeg)
+
+11. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
  * Primero se debe hallar la resistencia, por eso usaremos la fórmula de la ley de Ohm. 
  
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio12.png)
