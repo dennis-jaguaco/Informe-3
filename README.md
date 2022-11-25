@@ -89,91 +89,38 @@ Solución: El circuito esta con tres fuentes de voltaje en serie de 1.5 V, adem�
 
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio9.jpeg)
 
-11. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
- * Primero se debe hallar la resistencia, por eso usaremos la fórmula de la ley de Ohm. 
- 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio12.png)
-   
-Solución: Ahora la fuente deberá ser de 30 Volts
+#### 5-3
 
-14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-* Si presenta una relación directamente proporcional o también llamada relación lineal, ya que al incrementar el voltaje lo mismo sucede con la corriente.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio11.png)
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio11-1.png)  
 
-#### 3-2 Cálculo de la corriente
+13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
 
-16. Determine la corriente en cada caso: 
+Solución: Al estar las resistencias en serie se van a sumar 12 veces el valor de 5.6 kΩ, por tanto se debera multiplicar 12 por 5.6 kΩ, dando como resultado 67.2 kΩ.
 
-* Se debe usar la fórmula de la ley de Ohm para todos los casos.
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio16.png)
+15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio15.png)  
 
-18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio17.png)
 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio18.png)
+#### 5-4
+19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
 
-20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio19.png)
 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio20.png)
+21. Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.
+a) ¿Cuál es la corriente en el circuito?
+b) ¿Cuál es el voltaje a través de cada resistor?
+c) ¿Cuál es el valor nominal de potencia de los resistores?
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio21.png)
 
-22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
-24. Calcule el voltaje para cada valor de I y R:
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio23.png)
 
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio24a.png)
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio24b.png)
-
-26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio26.png)
-* Se emplea la ley de Ohm
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio26abc.png)
-
-28. Encuentre la resistencia de un reóstato para cada valor de V e I:
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio28.png)
-
-30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
-
-* Se aplica la fórmula de ley de Ohm
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio30.png)
-
-32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio32.png)
-
-* Se debe poner el amperíemtro en serie en el circuito para que de esa forma tengamos el valor de la corriente, de esa forma usemos la fórmula de Ohm R=V/I.
-
-34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio34.png)
-
-36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
-
-* El foco fundido es el que se encuentra señalado en el circuito, es decir el paso 4.
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio36.png)
-
-#### 4-1 Energía y Potencia
-
-2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
-
-* P= energía/tiempo 
-* P= 3.6x10^6J/1H
-
-4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
-
-* 5h=18000s
-* P= energía/tiempo =7500J/18000s = 0.417 W
-
-6. Convierta las siguientes cantidades en kilowatts:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-6.png)
-
-8. Convierta las siguientes cantidades en miliwatts:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-8.png)
-
-10. Convierta las siguientes cantidades en watts:
-
-![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-10.png)
 
 ### 4. VIDEO
 
@@ -181,9 +128,9 @@ https://youtu.be/vLQGwh3pqZM
 
 ### 5. CONCLUSIONES
 
-* Se puede concluir mediante la resolución de los ejercicios que se comprueba la teoría aprendida sobre la ley de Ohm, puesto que se evidencia el desarrollo de los problemas resueltos durante el informe que fueron llevados a cabo de manera eficiente aplicando lo aprendido.
+* Los circuitos en serie tienen como característica el de mantener la corriente constante en cualquier punto del circuito, sin embargo en un circuito en paralelo va a ser el voltaje constante mientras que la corriente que circula en este tipo de circuito va a dividirse, por otro lado en el circuito en serie el voltaje va a dividirse. Aademás, esto se evidencio mediante la resolución de los ejercicios que se comprueba la teoría implementada, teneiendo como evidencia en el desarrollo de los ejercicios de la tarea.
 
-* En en cada problema se detallo el procedimiento con su respectiva solución y explicación, siendo una manera mas sencilla y eficaz de comnprender que se empleo en cada literal establecido, por tanto se concluye que el capítulo 3 y 4 fueron analizados correctamente, de esa manera se llevo una adecuada elaboración del informe.
+* Por tanto, se desarrolló los ejercicios correctamente de acuerdo a lo aprendido, por esa razón dependiendo de que pida el ejercicio se uso un método adecuado, además detallando el procedimiento que se uso en cada uno de ellos.
 
 ### 6. BIBLIOGRAFÍA
 
