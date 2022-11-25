@@ -99,6 +99,19 @@ c) ¿Cuál es el valor nominal de potencia de los resistores?
 
 ![](https://github.com/dennis-jaguaco/Informe-3/blob/main/Ejercicio23.png)
 
+25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+![](https://github.com/dennis-jaguaco/Informe-3/blob/main/Ejercicio25.png)
+
+#### 6-1
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+3. 
+![](https://github.com/dennis-jaguaco/Informe-3/blob/main/Ejercicio2.png)
+
+Solución: En el circuito se puede ver como desde en la trayectoria 1, recorre mas de una sola trayectoria por tanto los resistores se encuentren en paralelo.
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor.
+
+![](https://github.com/dennis-jaguaco/Informe-3/blob/main/Ejercicio6-4.png)
 
 ### 4. VIDEO
 
